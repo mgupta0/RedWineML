@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/mgupta0/RedWineML
+Author: mgupta0
+Author-email: mayank@gonuts.com
+Project-URL: Bug Tracker, https://github.com/mgupta0/RedWineML/issues
+License-File: LICENSE
